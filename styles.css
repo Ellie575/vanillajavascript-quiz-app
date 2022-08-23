@@ -25,6 +25,7 @@ body {
 
 body.correct {
   --hue: var(--hue-correct);
+  color: black;
 }
 
 body.wrong {
